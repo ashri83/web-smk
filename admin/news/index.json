@@ -1,0 +1,15 @@
+json
+{
+  "berita": [
+    {
+      "title": "Peresmian Gedung Baru",
+      "date": "2025-04-25",
+      "body": "SMK Pondok Petir meresmikan gedung baru untuk jurusan Multimedia."
+    },
+    {
+      "title": "Juara Lomba Futsal",
+      "date": "2025-04-20",
+      "body": "Tim futsal SMK Pondok Petir menjuarai kompetisi futsal tingkat kota."
+    }
+  ]
+}
